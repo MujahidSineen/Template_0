@@ -1,3 +1,4 @@
 # the-cafe
-Design a virtual site for a coffee shop Designed by: html, css, bootstrap &amp; javascript
-all picture and files must be in the same folder
+Design of a virtual site using html ,css ,javascript and some other platform
+all files have to be in the same direction
+photo may have copyright
